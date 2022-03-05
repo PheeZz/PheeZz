@@ -10,11 +10,11 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/vk.svg)][vk]
+[![website](./img/vk.png)][vk]
 &nbsp;&nbsp;
-[![website](./img/telegram.svg)](https://t.me/pheezz)
+[![website](./img/telegram.png)](https://t.me/pheezz)
 &nbsp;&nbsp;
-[![website](./img/discord.svg)](https://discord.gg/qgzS3SUvWH)
+[![website](./img/discord.png)](https://discord.gg/qgzS3SUvWH)
 
 ### Languages and Tools:
 

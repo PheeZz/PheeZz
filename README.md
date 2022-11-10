@@ -4,7 +4,7 @@
 
 - 👾 I’m currently learning everything 🤣
 - 🥅 2022 Goal: Learn more about python
-- ⚡ Fun fact: I love to play video games or go to the gym in my free time
+- ⚡ Fun fact: I love to play video games in my free time
 - 😻 Check out my pinterest maybe?: [Arts](https://pin.it/3ohymp9)
 
 ### Connect with me:

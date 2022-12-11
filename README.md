@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=pheezz)</br>
-![](https://github.com/PheeZz/PheeZz/blob/master/img/logo_name.gif?raw=true)</br>
+<img align = "center" width = 1000 src = "https://github.com/PheeZz/PheeZz/blob/master/img/logo_name.gif?raw=true">
 
 ## I'm a Student and beginner Developer
 
@@ -35,8 +35,6 @@
 
 ![PheeZz's GitHub stats](https://github-readme-stats.vercel.app/api?username=PheeZz&theme=transparent)
 <br />
-
-### 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PheeZz&theme=transparent)
 

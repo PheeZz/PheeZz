@@ -1,20 +1,23 @@
-# Hi there, I'm Daniil - aka [PheeZz][vk] 👋
+![](https://komarev.com/ghpvc/?username=pheezz)</br>
+<img align = "center" width = 500 src = "https://github.com/PheeZz/PheeZz/blob/master/img/logo_name.gif?raw=true">
 
 ## I'm a Student and beginner Developer
 
-- 👾 I’m currently learning everything 🤣
+- 👾 I’m currently learning everything 👀
 - 🥅 2022 Goal: Learn more about python
 - ⚡ Fun fact: I love to play video games in my free time
-- 😻 Check out my pinterest maybe?: [Arts](https://pin.it/3ohymp9)
+- 😻 Check out my pinterest maybe?: [Arts]
+
+---
 
 ### Connect with me:
 
 &nbsp;&nbsp;
 [![website](./img/vk.png)][vk]
 &nbsp;&nbsp;
-[![website](./img/telegram.png)](https://t.me/pheezz)
+[![website](./img/telegram.png)][tg]
 &nbsp;&nbsp;
-[![website](./img/discord.png)](https://discord.gg/qgzS3SUvWH)
+[![website](./img/discord.png)][discord]
 
 ### Languages and Tools:
 
@@ -27,7 +30,17 @@
 </br>
 
 ---
-### ⚡GitHub Stats
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PheeZz&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[vk]: https://vk.com/here_to_die
+### ⚡GitHub Stats
+
+![PheeZz's GitHub stats](https://github-readme-stats.vercel.app/api?username=PheeZz&theme=transparent)
+<br />
+
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PheeZz&theme=transparent)
+
+[vk]: https://vk.com/pheezz
+[tg]: https://t.me/pheezz
+[discord]: https://discord.gg/qgzS3SUvWH
+[arts]: https://pin.it/3ohymp9

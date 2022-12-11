@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=pheezz)</br>
-<img align = "center" width = 500 src = "https://github.com/PheeZz/PheeZz/blob/master/img/logo_name.gif?raw=true">
+![](https://github.com/PheeZz/PheeZz/blob/master/img/logo_name.gif?raw=true)</br>
 
 ## I'm a Student and beginner Developer
 

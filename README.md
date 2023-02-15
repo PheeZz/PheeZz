@@ -4,7 +4,7 @@
 ## I'm a Student and beginner Developer
 
 - 👾 I’m currently learning everything 👀
-- 🥅 2022 Goal: Learn more about python
+- 🥅 2023 Goal: Learn more about python
 - ⚡ Fun fact: I love to play video games in my free time
 - 😻 Check out my pinterest maybe?: [Arts]
 

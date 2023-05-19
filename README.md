@@ -42,3 +42,6 @@
 [tg]: https://t.me/pheezz
 [discord]: https://discord.gg/qgzS3SUvWH
 [arts]: https://pin.it/3ohymp9
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

@@ -6,7 +6,7 @@
 
 ## Python developer
 
-I am currently dedicated to mastering the art of writing clean code. My programming journey began with creating Telegram bots for various purposes. Currently, I'm immersed in API development using FastAPI.
+I am currently dedicated to mastering the art of writing clean code. My programming journey began with creating Telegram bots for various purposes. Currently, I'm immersed in backend development using FastAPI.
 - 🌍 I'm based in Kaliningrad
 - ✉️ You can contact me at [t.me/pheezz](mailto:t.me/pheezz)
 - 🧠 I'm learning FastAPI, Web-Dev
